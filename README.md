@@ -12,7 +12,7 @@ We will implement a simple front-end app that shows posts. The app uses a JSON s
 2. Coding: 70%, Questions: 30%.
 3. Your submitted git repo should be *private*, please add 'barashd@post.bgu.ac.il' and 'Gal-Fadlon' to the list of collaborators.
 4. Do not use external libraries that provide the pagination component. If in doubt, contact the course staff.
-5. Deadline: 13.4.26, end of day.
+5. Deadline: 16.4.26, end of day.
 6. Additionally, solve the [theoretical questions](https://docs.google.com/forms/d/e/1FAIpQLSeF7AGqsFPJ2HKhKynXOBnSozFgfqcko1u_hmIrauv8so3tvQ/viewform?usp=header).
 7. In the course Moodle's submission form, please fill the repository `ssh clone link` (see image inside the form).
 8. Use TypeScript, and follow the linter's warnings (see eslint below).
